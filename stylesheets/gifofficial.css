@@ -1,5 +1,10 @@
+.body {
+    background-image: url(../images/HD-engineering-wallpaper-1%202.jpg);
+}
+
 .giftitle {
-    font-family: Gill Sans; 
+    font-family: Gill Sans;
+    color: #ffffff; 
 }
 
 .gifparagraph {
@@ -8,5 +13,6 @@
     margin-right: 100px; 
     font-family: Gill Sans;
     font-size: large; 
-    
+    color: #ffffff; 
+
 }
