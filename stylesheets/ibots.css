@@ -13,12 +13,14 @@
 
 .menu li {
     display: inline;
+    display: -webkit-box;
     
      
 }
 
 
 .menu li a{
+    -webkit-box-flex: 1;
     border-color: #ffffff;
     border-width: medium; 
     color: white;
