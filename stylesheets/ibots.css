@@ -3,7 +3,7 @@
  background-image: url(../images/pic3.png);
  background-attachment: fixed;
  background-position: bottom;
- height: 74.074074%;
+ height: 100px; 
  background-repeat: no-repeat; 
  background-size: cover; 
  
@@ -30,8 +30,8 @@
     font-family: Gill Sans;
     font-weight: 300; 
     text-decoration: none;
-    font-size: 1.1vw; 
-    margin-left: 15vw;
+    font-size: 14px; 
+    margin-left: 50px;
    
    
      
