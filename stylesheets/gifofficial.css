@@ -8,7 +8,7 @@
  background-size: cover; 
 }
 
-}
+
 
 .menu li {
     display: inline;   
@@ -17,7 +17,7 @@
 }
 
 
-.menu li a{
+.menu li a {
   
     
     color: white;
@@ -42,7 +42,8 @@
 .menuline {
     width: 74.074074074% ;
     float: none;
-    
+
+}
 
 .giftitle {
     font-family: Gill Sans;
