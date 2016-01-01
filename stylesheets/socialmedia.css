@@ -2,7 +2,6 @@
     background-image: url(../images/pic2.jpg);
 }
 
-}
 
 .menu li {
     display: inline;   
@@ -36,7 +35,7 @@
 .menuline {
     width: 74.074074074% ;
     float: none;
-    
+}
 
 .smtitle {
      font-family: Gill Sans;
