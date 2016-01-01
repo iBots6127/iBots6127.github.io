@@ -8,6 +8,42 @@
  background-size: cover; 
 }
 
+}
+
+.menu li {
+    display: inline;   
+  
+    
+}
+
+
+.menu li a{
+  
+    
+    color: white;
+    
+    border-radius: 0px;
+    font-family: Gill Sans;
+    font-weight: 300; 
+    text-decoration: none;
+    font-size: 0.7rem; 
+    margin-left: 12rem;
+   
+   
+     
+}
+
+.menu li a:hover {
+    color: rgb(100,250,100);
+    
+    
+}
+
+.menuline {
+    width: 74.074074074% ;
+    float: none;
+    
+
 .giftitle {
     font-family: Gill Sans;
     color: #ffffff; 
