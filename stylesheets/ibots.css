@@ -10,10 +10,6 @@
  
 }
 
-.menu {
-    padding: 0px; 
-}
-
 .menu li {
     display: inline;   
   
@@ -30,8 +26,8 @@
     font-family: Gill Sans;
     font-weight: 300; 
     text-decoration: none;
-    font-size: 14px; 
-    margin-left: 180px; 
+    font-size: 0.7rem; 
+    margin-left: 12rem;
    
    
      
@@ -46,10 +42,9 @@
 .menuline {
     width: 74.074074074% ;
     float: none;
-    
-    
-    
 }
+
+    
         
 .mainheading {
     padding: 25px;
