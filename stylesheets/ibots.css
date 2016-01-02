@@ -27,8 +27,8 @@
     font-family: Gill Sans;
     font-weight: 300; 
     text-decoration: none;
-    font-size: 0.7vw; 
-    margin-left: 12vw;
+    font-size: 0.7rem; 
+    margin-left: 12rem;
    
    
      
@@ -43,6 +43,7 @@
 .menuline {
     width: 74.074074074% ;
     float: none;
+    
 }
 
     
