@@ -26,8 +26,8 @@
     font-family: Gill Sans;
     font-weight: 300; 
     text-decoration: none;
-    font-size: 0.7rem; 
-    margin-left: 12rem;
+    font-size: 0.7%; 
+    margin-left: 12r%;
    
    
      
@@ -56,13 +56,13 @@
     font-family: Gill Sans;
     border-style: solid;
     border-color: white;
-    font-size: 4vw;  
+    font-size: 4%;  
     color: #ffffff;
     position: static; 
-    margin-bottom: 25vw;
-    margin-top: 15.5vw;
-    margin-left: 20vw;
-    margin-right: 21.9vw; 
+    margin-bottom: 25%;
+    margin-top: 15.5%;
+    margin-left: 20%;
+    margin-right: 21.9%; 
    
 
 }
