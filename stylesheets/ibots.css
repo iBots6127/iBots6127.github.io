@@ -6,6 +6,7 @@
  height: 100px; 
  background-repeat: no-repeat; 
  background-size: cover; 
+ font-size:1350px;
  
  
 }
@@ -27,7 +28,7 @@
     font-weight: 300; 
     text-decoration: none;
     font-size: 0.7%; 
-    margin-left: 12r%;
+    margin-left: 12%;
    
    
      
@@ -49,8 +50,8 @@
 .mainheading {
     padding: 25px;
     float: none; 
-    height: 3.7vw;
-   width: 55.555555555vw;
+    height: 3.7%;
+   width: 55.555555555%;
    border-color: white;
    border-width: thick; 
     font-family: Gill Sans;
