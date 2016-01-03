@@ -51,7 +51,7 @@
 .mainheading {
     padding: 25px;
     float: none; 
-    height: 10rem;
+    height: 8rem;
    width: 55.55555555rem;
    border-color: white;
    border-width: thick; 
@@ -61,10 +61,11 @@
     font-size: 4em;  
     color: #ffffff;
     position: static; 
-    margin-bottom: 100rem;
+    margin-bottom: 20rem;
     margin-top: 15.5rem;
     margin-left: 15rem;
     margin-right: 21.9rem; 
+    text-align: center;
    
 
 }
