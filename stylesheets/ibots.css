@@ -63,7 +63,7 @@
     position: static; 
     margin-bottom: 20rem;
     margin-top: 15.5rem;
-    margin-left: 50%;
+    margin-left: 25%;
     text-align: center;
    
 
@@ -74,7 +74,7 @@
 .actualrobotics {
     color: #ffffff; 
     padding:15px; 
-    font-family: Gill Sans;
+    font-family: Trebuchet MS;
     font-size: 1em;
     font-weight: 100; 
     width: 63.185185rem;
@@ -91,7 +91,7 @@
 
 .aboutus {
     font-size: 18px;
-    font-family: Gill Sans;
+    font-family: Trebuchet MS;
     line-height: 30px; 
     
 }
@@ -101,7 +101,7 @@
     height: 4vw;
     width: 16vw; 
     color: white; 
-    font-family: Gill Sans;
+    font-family: Trebuchet MS;
     font-size: 3.5vw;
     text-align: center;
     text-decoration: none;
