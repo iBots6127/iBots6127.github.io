@@ -14,8 +14,12 @@
  
 }
 
+.menu {
+    white-space: nowrap;
+}
 .menu li {
     display: inline;   
+
   
     
 }
