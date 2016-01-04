@@ -6,6 +6,11 @@
  height: 100px; 
  background-repeat: no-repeat; 
  background-size: cover; 
+ 
+ 	-webkit-transition: top 300ms ease-out;
+	   -moz-transition: top 300ms ease-out;
+	     -o-transition: top 300ms ease-out;
+	        transition: top 300ms ease-out;
 
  
  
@@ -79,7 +84,7 @@
     font-weight: 100; 
     width: 63.185185rem;
     height: 320px;
-    margin-top: 80px;
+    margin-top: 5.925925925rem;
     margin-left: 12rem;
     margin-bottom: 5.925925rem; 
     border-style: solid;
