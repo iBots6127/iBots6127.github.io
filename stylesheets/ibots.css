@@ -60,7 +60,7 @@
     border-color: white;
     font-size: 4em;  
     color: #ffffff;
-    position: absolute; 
+    position: static; 
     margin-bottom: 20rem;
     margin-top: 15.5rem;
     margin-left: 50%;
