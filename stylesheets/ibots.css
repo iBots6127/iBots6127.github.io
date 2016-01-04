@@ -60,10 +60,10 @@
     border-color: white;
     font-size: 4em;  
     color: #ffffff;
-    position: static; 
+    position: absolute; 
     margin-bottom: 20rem;
     margin-top: 15.5rem;
-    margin-left: 12rem;
+    margin-left: 50%;
     text-align: center;
    
 
