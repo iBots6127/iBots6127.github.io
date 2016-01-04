@@ -26,6 +26,10 @@
      
 }
 
+.menu {
+    white-space: nowrap;
+}
+
 .menu li a:hover {
     color: rgb(100,250,100);
     
