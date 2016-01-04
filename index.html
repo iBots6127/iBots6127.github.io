@@ -18,7 +18,41 @@ of the iBots official website.-->
   <title>Team 6127: The iBots</title>
 
   <link rel = "stylesheet" type = text/css href = "stylesheets/ibots.css">
+ 
+ <!-- JAVASCRIPT PORTION-->
+ 
+<script> 
+$(document).ready(function() {
+
+$('body').css('display', 'none');
+
+$('body').fadeIn(1000);
+
+
+
+$('.link').click(function() {
+
+event.preventDefault();
+
+newLocation = this.href;
+
+$('body').fadeOut(1000, newpage);
+
+});
+
+function newpage() {
+
+window.location = newLocation;
+
+}
+
+});
+</script>
+
 </head>
+
+
+
 <body class = body background = https://www.dropbox.com/home/ROBOTICS?preview=Screen+Shot+2015-12-25+at+7.29.30+PM.png>
 
 <!-- menu  -->
