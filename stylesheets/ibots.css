@@ -86,13 +86,14 @@
     font-size: 1em;
     font-weight: 100; 
     width: 63.185185rem;
-    height: 23rem;
+    height: 20rem;
     margin-top: 5.925925925rem;
     
     margin-bottom: 5.925925rem; 
     border-style: solid;
     border-color:white;
     border-width: thick; 
+    text-decoration: none;
 
      
 }
