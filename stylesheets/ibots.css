@@ -57,6 +57,7 @@
     
         
 .mainheading {
+    /*both rem/em and px allow browser to revert to one working value or another*/
     padding: 25px;
     float: none; 
     height: 3.75rem;
@@ -66,12 +67,13 @@
     font-family: Trebuchet MS;
     border-style: solid;
     border-color: white;
-    font-size: 4rem;  
+    font-size: 4rem; 
+    font-size: 50px;  
     color: #ffffff;
     position: static; 
     margin-bottom: 35rem;
     margin-top: 17rem;
-    
+    margin-top: 200px;
     text-align: center;
    
 
