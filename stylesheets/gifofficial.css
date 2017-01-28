@@ -59,3 +59,64 @@
     color: white; 
 
 }
+
+.murmuration { 
+        margin-left: 35px; 
+        margin-right: 35px; 
+        font-size: 19px; 
+        font-family:Trebuchet MS; 
+        color: white; 
+        
+}
+
+.murmurationdescription {
+        
+        margin-left: 35px;
+        margin-right: 35px; 
+        font-size: 15px; 
+        font-family:Trebuchet MS; 
+        color: white; 
+        
+}
+
+.mrhs {
+        
+        margin-left: 35px;
+        margin-right: 35px; 
+        font-size: 19px; 
+        font-family:Trebuchet MS; 
+        color: white;
+        
+}
+
+.mrhsdescription{
+        
+        
+        margin-left: 35px;
+        margin-right: 35px; 
+        font-size: 15px; 
+        font-family:Trebuchet MS; 
+        color: white;
+}
+
+
+.hostingmeet {
+        
+            margin-left: 35px;
+        margin-right: 35px; 
+        font-size: 19px; 
+        font-family:Trebuchet MS; 
+        color: white;
+        
+}
+.hostingmeetdescription {
+        
+            margin-left: 35px;
+        margin-right: 35px; 
+        font-size: 15px; 
+        font-family:Trebuchet MS; 
+        color: white;
+        
+}
+
+
