@@ -60,7 +60,8 @@
 
 }
 
-.murmuration { 
+.Murmuration { 
+        
         margin-left: 35px; 
         margin-right: 35px; 
         font-size: 19px; 
@@ -102,16 +103,17 @@
 
 .hostingmeet {
         
-            margin-left: 35px;
+        margin-left: 35px;
         margin-right: 35px; 
         font-size: 19px; 
         font-family:Trebuchet MS; 
         color: white;
         
 }
+
 .hostingmeetdescription {
         
-            margin-left: 35px;
+        margin-left: 35px;
         margin-right: 35px; 
         font-size: 15px; 
         font-family:Trebuchet MS; 
